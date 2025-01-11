@@ -24,6 +24,8 @@ struct ContentView: View {
                 
             }
             .background(Color.green)
+            
+            Rectangle()
         }
         .padding()
     }
