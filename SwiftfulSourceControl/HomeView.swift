@@ -6,6 +6,11 @@
 //
 
 /*
+ Clone = Copying the repo locally
+ Commit = Save ("Checkpotin") on our current branch
+ Staging = Prepare changes for a commit
+ Stash = Save changes for later
+ 
  COMMIT MESSAGES
  
  NEW FEATURE:
