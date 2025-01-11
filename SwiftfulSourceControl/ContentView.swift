@@ -1,4 +1,4 @@
-//
+    //
 //  ContentView.swift
 //  SwiftfulSourceControl
 //
@@ -13,10 +13,17 @@ struct ContentView: View {
             ScrollView {
                 VStack {
                     ForEach(0..<20){ _ in
-                        Text("Yo")
+                        Image(systemName: "house.fill")
+                           .font(.largeTitle)
+                            .imageScale(.large)
+                            .foregroundStyle(.tint)
+                        Text("new title")
+            
+            Button("Subscribe now!") {
+                
+                }
                     }
                 }
-            }
         }
         .padding()
     }
