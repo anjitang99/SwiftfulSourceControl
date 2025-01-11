@@ -16,6 +16,10 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("jihoon heart")
             
+            Button("Subscribe") {
+                
+            }
+            
             Button("Click me") {
                 
             }
