@@ -15,6 +15,7 @@
  Merge = Joining two different branch
  Rebase = Mvoing one branch on top of another branch
  Cherry picking = Duplicating (copying) one commit from one branch to another
+ Pull Request (PR) = Request to merge branch
  
  COMMIT MESSAGES
  
