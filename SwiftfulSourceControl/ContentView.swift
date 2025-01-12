@@ -22,6 +22,10 @@ struct ContentView: View {
                         Button("Subscribe now!12") {
                             
                         }
+                        
+                        Button("Click me!") {
+                            
+                        }
                     }
                 }
             }
